@@ -12,7 +12,10 @@ Hardware implementation circuit    https://github.com/gajanalaramana/IOT-Based-H
 Arduino code for execution  https://github.com/gajanalaramana/IOT-Based-Home-Automation-System/blob/main/home.ino
 
  Output of Home Automation   https://github.com/gajanalaramana/IOT-Based-Home-Automation-System/blob/main/output%20of%20Home%20automation.jpeg
-block diagram
+
+
+
+
 An **IoT-based Home Automation System** developed using **NodeMCU (ESP8266)** and the **Blynk IoT platform** to remotely monitor and control household appliances. The system integrates multiple sensors for home security, environmental monitoring, gas leakage detection, fire detection, and water-level monitoring.
 
  📌 Project Overview
