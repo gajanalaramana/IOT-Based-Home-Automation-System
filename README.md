@@ -5,6 +5,9 @@ Home Automation report     https://github.com/gajanalaramana/IOT-Based-Home-Auto
 
 Block Diagram     https://github.com/gajanalaramana/IOT-Based-Home-Automation-System/blob/main/block%20diagram.png   
 
+Blynk and Wifi output    https://github.com/gajanalaramana/IOT-Based-Home-Automation-System/blob/main/blynk%20output%20and%20wifi%20connection.png
+
+Hardware implementation  
 block diagram
 An **IoT-based Home Automation System** developed using **NodeMCU (ESP8266)** and the **Blynk IoT platform** to remotely monitor and control household appliances. The system integrates multiple sensors for home security, environmental monitoring, gas leakage detection, fire detection, and water-level monitoring.
 
