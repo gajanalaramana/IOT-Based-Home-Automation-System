@@ -1,7 +1,8 @@
 🏠 IoT-Based Home Automation System Using ESP8266
 
-Arduino IDE code for execution 
+Home Automation report     https://github.com/gajanalaramana/IOT-Based-Home-Automation-System/blob/main/home%20ramana116%20(1).pdf Block Diagram   
 
+block diagram
 An **IoT-based Home Automation System** developed using **NodeMCU (ESP8266)** and the **Blynk IoT platform** to remotely monitor and control household appliances. The system integrates multiple sensors for home security, environmental monitoring, gas leakage detection, fire detection, and water-level monitoring.
 
  📌 Project Overview
